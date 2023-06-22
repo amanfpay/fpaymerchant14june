@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820320593669",
+    "project_id": "francepay-a3302",
+    "storage_bucket": "francepay-a3302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820320593669:android:129b5db28b1bfe3a69f96c",
+        "android_client_info": {
+          "package_name": "com.example.merchantfpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820320593669-krr2cfd9pm4pr9md5ba25udqee0b6uvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3rsb-EDPWRTJJo8_wiVijQScBXilEjTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820320593669-krr2cfd9pm4pr9md5ba25udqee0b6uvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
